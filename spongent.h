@@ -1,7 +1,7 @@
 #ifndef _SPONGENT_H_
 #define _SPONGENT_H_
 
-#include <cstdint>
+#include <stdint.h>
 
 #define SW_SECURITY 128
 
